@@ -138,7 +138,7 @@ multilingual-conversational-loan-advisor-chatbot/
 This project was successfully developed and completed during the **Great Bengaluru Hackathon 2025**.
 
 ### Contributors:
-- [@Niharika-Saha](https://github.com/Niharika-Saha) 
+- [@niharika-saha](https://github.com/niharika-saha) 
 - [@nehanpnair](https://github.com/nehanpnair)
 - [@nupur1735](https://github.com/nupur1735)
 - [@Niharika-Paul](https://github.com/Niharika-Paul)
